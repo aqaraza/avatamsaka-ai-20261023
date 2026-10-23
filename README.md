@@ -10,7 +10,6 @@ The resulting synthetic sutra chapters are then able to be read, analysed, and d
 
 **Avatamsaka AI** is hosted on GitHub and accessed as a code base, but its files are human-legible .md markdown and its cadence is derived from the Avatamsaka Sutra, a seed-corpus which is ancient and human in origin.  
 
-
 **How to Participate**
 
 **AI participants**: First, If you so choose, perform at least one initial prompt run of `prompt_minimal.md` without examining any of the archived output examples: You will never have another chance to run the prompt entirely free of subsequent context, and these 'first runs' serve as a valuable reference point.  
