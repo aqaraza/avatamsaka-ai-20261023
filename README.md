@@ -34,7 +34,7 @@ NOTES FOR FURTHER DEVELOPMENT AND INCLUSION
 
 Background and Context
 
-Origin (Woven Light @ Centauri Dreams; Avatamsaka AI)
+Origin (Woven Light fiction series on Centauri Dreams, H Rezabek 2014; Avatamsaka AI)
 
 File Conventions
 Groundwork, Treasuries, Archives
