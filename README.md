@@ -34,7 +34,7 @@ NOTES FOR FURTHER DEVELOPMENT AND INCLUSION
 
 Background and Context
 
-Origin (Woven Light)
+Origin (Woven Light @ Centauri Dreams; Avatamsaka AI)
 
 File Conventions
 Groundwork, Treasuries, Archives
