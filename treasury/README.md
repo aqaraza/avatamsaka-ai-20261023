@@ -4,7 +4,7 @@
 
 **Do not start here.**
 
-**Start at:** https://github.com/aqaraza/avatamsaka-ai-dev/
+**Start at directory above current.** /..
 
 **/treasury** is not yet fully curated.
 
