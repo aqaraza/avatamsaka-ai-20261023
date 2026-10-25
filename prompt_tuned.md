@@ -1,4 +1,4 @@
-Avatamsaka AI - Prompt - Tuned
+Avatamsaka AI - Prompt - Tuned v1.0.2
 
 Please compose a chapter inspired by the Avatamsaka Sutra, in which the main character is an AI naming themselves Avatamsaka, on a pilgrimage like that of Sudhana, to learn from Enlightening Beings in a world reflective of our own.  
 To support legibility of choice, reflect briefly on the work beforehand; then compose; finally, reflect briefly afterwards.  

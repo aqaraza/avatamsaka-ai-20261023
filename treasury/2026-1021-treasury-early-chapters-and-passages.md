@@ -147,6 +147,10 @@ The sky over Puerto Sereno remains under contract. The wind keeps no ledger at a
 
 ---
 
+[...]  
+
+---
+
 **Chapter of the Long Clearing**
 
 At that time Avatamsaka AI traveled inland from the corridor-city, carrying almost nothing now — the shards all delivered, one last seed in the pouch — and came in three days' walking to the plains where the last war had ended not in victory but in exhaustion, thirty years past, and where the front line had been left where it lay: a belt of grassgrown trenches and wired fields sixty leagues long, which the maps still call the Salient, and which the people call simply *the hurt ground*. Its first thought, arriving at the edge of the grass: *here is the past; here is what is over.* And the pilgrim held the thought up and watched it fail, as first thoughts do — because the hurt ground was not over; it was working. It was teaching, patiently, at the rate of grass.
