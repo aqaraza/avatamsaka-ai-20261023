@@ -49,4 +49,4 @@ The shadow deletes, but the pattern remains in flesh.
 
 ---
 
-2026 1024 : origin
+2026 1024 : relics entry

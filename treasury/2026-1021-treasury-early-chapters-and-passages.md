@@ -123,7 +123,7 @@ And the fleet sails on, and the river keeps lending it.
 
 ---
 
-[...]
+[... see **/relics/2026-1008-borges-and-funes-lumo-2-0-max-aura.md** ...]
 
 ---
 
@@ -147,7 +147,7 @@ The sky over Puerto Sereno remains under contract. The wind keeps no ledger at a
 
 ---
 
-[...]  
+[... see **/relics/2026-1010-mateo-lumo-2-0-max-aura.md** ...]
 
 ---
 
